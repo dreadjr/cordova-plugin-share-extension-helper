@@ -22,6 +22,8 @@
 
     <header-file src="src/ios/ShareExtensionHelper.h" />
     <source-file src="src/ios/ShareExtensionHelper.m" />
+    <header-file src="src/ios/ShareViewController.h" />
+    <source-file src="src/ios/ShareViewController.m" />
 
     <framework src="MobileCoreServices.framework" />
   </platform>
