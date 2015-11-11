@@ -1,3 +1,8 @@
+#import "ShareViewController.h"
+#import <Cordova/CDV.h>
+#import <Cordova/CDVPluginResult.h>
+#import <Cordova/CDVViewController.h>
+
 @implementation ShareViewController
 - (void)viewWillAppear:(BOOL)animated
 {
