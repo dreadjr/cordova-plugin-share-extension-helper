@@ -2,6 +2,8 @@
 #import <Cordova/CDV.h>
 #import <Cordova/CDVPluginResult.h>
 #import <Cordova/CDVViewController.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+#import <MobileCoreServices/UTCoreTypes.h>
 
 @implementation ShareViewController
 - (void)viewWillAppear:(BOOL)animated
